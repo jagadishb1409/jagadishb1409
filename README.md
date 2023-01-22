@@ -19,4 +19,4 @@ Check out my GitHub profile for my latest projects and contributions.
 
 ![Jagadish's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagadishb1409&show_icons=true&include_all_commits=true&theme=radical)
 
-![](https://komarev.com/ghpvc/?username=jagadishb1409&color=brightgreen)
+
