@@ -1,17 +1,17 @@
-### Hi there 👋
+# About me
 
-<!--
-**jagadishb1409/jagadishb1409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is XXX, I am a beginner in the field of DevOps with a strong interest in Machine Learning and Python. My goal is to improve my skills in building and deploying ML models using frameworks such as Tensorflow, Keras, and PyTorch. I also have a solid foundation in Python programming and data analysis. As I continue to learn and grow in the field of DevOps, I am excited to gain hands-on experience with containerization, continuous integration, and deployment.
 
-Here are some ideas to get you started:
+## Skills
+- Machine Learning
+- Python
+- DevOps
+  - Containerization
+  - Continuous Integration
+  - Deployment
+  
+## Projects
+Check out my GitHub profile for my latest projects and contributions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=jagadishb1409&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
