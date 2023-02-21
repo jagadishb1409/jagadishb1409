@@ -14,8 +14,7 @@ Hello, my name is Jagadish, I am a beginner in the field of DevOps with a strong
 Check out my GitHub profile for my latest projects and contributions.
 
 ## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=jagadishb1409&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jagadishb1409&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Jagadish's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagadishb1409&show_icons=true&include_all_commits=true&theme=radical)
 
